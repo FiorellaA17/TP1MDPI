@@ -1,0 +1,6 @@
+C:\Users\Windows\Documents\SharpDevelop Projects\MetodologiaDeProgramacionI\TP1MDPI\obj\Debug\TP1MDPI.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Documents\SharpDevelop Projects\MetodologiaDeProgramacionI\TP1MDPI\bin\Debug\TP1MDPI.exe.config
+C:\Users\Windows\Documents\SharpDevelop Projects\MetodologiaDeProgramacionI\TP1MDPI\bin\Debug\TP1MDPI.exe
+C:\Users\Windows\Documents\SharpDevelop Projects\MetodologiaDeProgramacionI\TP1MDPI\bin\Debug\TP1MDPI.pdb
+C:\Users\Windows\Documents\SharpDevelop Projects\MetodologiaDeProgramacionI\TP1MDPI\obj\Debug\TP1MDPI.exe
+C:\Users\Windows\Documents\SharpDevelop Projects\MetodologiaDeProgramacionI\TP1MDPI\obj\Debug\TP1MDPI.pdb
